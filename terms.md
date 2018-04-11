@@ -303,7 +303,7 @@ SAS au capital de 10 059 500,00 € - RCS LILLE METROPOLE 424 761 419 00045 - Co
 
 * * *
 
-POLITIQUE DE CONFIDENTIALITE ET TRAITEMENT DES DONNEES Version mise à jour le 01 mai 2017
+POLITIQUE DE CONFIDENTIALITE ET TRAITEMENT DES DONNEES Version mise à jour le 11 avril 2018
 =========================================================================================
 
 La société Like The Stars SAS (ci-après, "Wombee") édite une plateforme collaborative accessible sur un site internet notamment à l'adresse www.wombee.com et www.wombee.fr et sous la forme d'une application mobile destinée à mettre en relation des personnes séjournant dans les mêmes établissements sur des dates communes afin de leur permettre de profiter pleinement de leur séjour. (Ci-après, la "**Plateforme**")
@@ -608,7 +608,7 @@ SAS au capital de 10 059 500,00 € - RCS LILLE METROPOLE 424 761 419 00045 - Co
 
 * * *
 
-CHARTE DES COOKIES Version mise en ligne le : 01/05/2017
+CHARTE DES COOKIES Version mise en ligne le : 11/04/2018
 ========================================================
 
 Like The Stars SAS (« Wombee », « nous », « nos » ou « notre ») utilise les cookies afin de vous proposer un service web amélioré et davantage personnalisé. À travers cette Charte d’utilisation des Cookies de Wombee (la « Charte sur les Cookies »), nous vous présentons comment et pourquoi nous utilisons des cookies sur ce site, en toute transparence.
